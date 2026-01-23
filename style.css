@@ -68,6 +68,8 @@ body {
   color: white;
   border-radius: 5px;
   cursor: pointer;
+  padding-top: 50px;
+  margin-top: 50px;
 }
 
 .controls button:hover {
