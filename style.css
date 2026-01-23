@@ -5,8 +5,6 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  padding-bottom: 50px;
-  padding-top: 50px;
 }
 
 .app {
@@ -23,6 +21,7 @@ body {
   cursor: pointer;
   position: relative;
   perspective: 1000px;
+  margin-bottom: 50px;
 }
 
 .flashcard div {
